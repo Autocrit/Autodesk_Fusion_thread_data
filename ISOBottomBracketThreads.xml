@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>ISO Bottom Bracket Threads</Name>
+  <CustomName>ISO Bottom Bracket Threads</CustomName>
+  <Unit>mm</Unit>
+  <Angle>60</Angle>
+  <SortOrder>19</SortOrder>
+  <ThreadSize>
+    <Size>34.925x1.058</Size>
+    <Designation>
+      <ThreadDesignation>1.375" x 24 TPI</ThreadDesignation>
+      <CTD>1.375" x 24 TPI</CTD>
+      <TPI>24.0</TPI>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>34.806</MajorDia>
+        <PitchDia>34.145</PitchDia>
+        <MinorDia>33.590</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>35.088</MajorDia>
+        <PitchDia>34.324</PitchDia>
+        <MinorDia>33.899</MinorDia>
+        <TapDrill>33.5</TapDrill>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+</ThreadType>
